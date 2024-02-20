@@ -1,4 +1,4 @@
-open in desktop for mobile not optimize 
+Open in Desktop for Mobile not Optimized. 
 
 # Ochi - Scroll Animation Showcase
 
@@ -20,7 +20,7 @@ Ochi is a captivating webpage designed to showcase scroll animations using the p
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/alok-mishra143/Ochi.git
+git clone https://github.com/Sirvi1460/Ochi-Web.git
 ```
 
 Navigate to the project directory:
@@ -56,7 +56,7 @@ npm install
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/alok-mishra143/Ochi.git
+    git clone https://github.com/Sirvi1460/Ochi-Web.git
     ```
 
 2. Navigate to the project directory:
